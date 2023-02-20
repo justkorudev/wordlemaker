@@ -58,10 +58,10 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       </p>
 
       <p className="mt-6 text-sm italic text-gray-500 dark:text-gray-300">
-        This is an open source version of the word guessing game we all know and
+        This is an open source and customizable version of the amazing word guessing game we all know and
         love -{' '}
         <a
-          href="https://github.com/justkorudev/worldlemaker"
+          href="https://github.com/justkorudev/wordlemaker"
           className="font-bold underline"
         >
           check out the code here
