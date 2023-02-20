@@ -8,7 +8,7 @@ This is a clone project of the popular word guessing game we all know and love. 
 
 ### Using Vercel (Click the button):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjustkorudev%2Fwordlemaker&demo-title=WordleMaker%20Demo&demo-description=Official%20WordleMaker%20Demo%20Website&demo-url=https%3A%2F%2Fworldlemaker.vercel.app%2F&demo-image=https%3A%2F%2Fi.ibb.co%2FNypXCdF%2F20301-E44-00-F1-4-F8-C-A53-F-ECA5-A429-E84-D.jpg)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjustkorudev%2Fwordlemaker&demo-title=WordleMaker%20Demo&demo-description=Official%20WordleMaker%20Demo%20Website&demo-url=https%3A%2F%2Fwordlemaker.vercel.app%2F&demo-image=https%3A%2F%2Fi.ibb.co%2FNypXCdF%2F20301-E44-00-F1-4-F8-C-A53-F-ECA5-A429-E84-D.jpg)
 
 ### Using npm to build a dev version at a VPS:
 
